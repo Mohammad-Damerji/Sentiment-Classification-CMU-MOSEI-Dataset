@@ -1,6 +1,6 @@
 # Sentiment-Classification
 ## Data:
-In this project we used CMU-MOSEI dataset which are multimodal sentiment analysis and emotion recognition to date. The dataset contains more than 23,500 sentence utterance videos from more than 1000 online YouTube speakers. http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/.
+In this project we used CMU-MOSEI dataset which are multimodal sentiment analysis and emotion recognition to date. The dataset contains more than 23,500 sentence utterance videos from more than 1000 online YouTube speakers. http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/.\n
 We divided the data into two calsses ['Negative' , 'Positive'].
 We used three diffrent kinds of featurs {Vision, audio, text}.
 ## Models and Results:
