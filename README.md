@@ -6,8 +6,6 @@
 
 * We used three different kinds of features {vision, audio, text}.
 
-* OpenFace and OpenSmile were used to extract features
-
 ## Models and Results:
 * We used a DNN model to classify the vision data and another DNN model for the audio data, Bi-LSTM and LSTM neural network was used to classify the textual data then we concatenate the three models followed by some dense layers.
 
